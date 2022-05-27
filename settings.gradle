@@ -1,0 +1,3 @@
+rootProject.name = 'mtas-commons'
+include 'mtas-commons-utils'
+
