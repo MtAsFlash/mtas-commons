@@ -19,7 +19,7 @@ allprojects {
         mavenCentral()
     }
 
-    group 'org.example'
+    group 'com.anshun'
     version '1.0-SNAPSHOT'
 
     sourceCompatibility = 8
